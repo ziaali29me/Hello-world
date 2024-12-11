@@ -1,0 +1,7 @@
+Target Name      Instrument       Frequency (GHz)    Sensitivity (μJy)
+NGC 4321         VLA             1.4                                60
+M87              ALMA                            230                
+NGC 6946         MeerKAT         1.4              15               
+M51              VLA             3.0                                
+Andromeda        GMRT            0.325            100              
+NGC 253          ALMA                            115                
